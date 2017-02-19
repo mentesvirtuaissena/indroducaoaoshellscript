@@ -2,7 +2,7 @@
 
 Arquivos do Curso de Introdução ao Shell Script
 
-***Sobre o Shell Script
+# Sobre o Shell Script
 
 "Shell script é uma linguagem de script usada em vários sistemas operativos (operacionais), com diferentes dialetos, dependendo do interpretador de comandos utilizado. Um exemplo de interpretador de comandos é o bash, usado na grande maioria das distribuições GNU/Linux.
 
